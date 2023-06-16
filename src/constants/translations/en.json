@@ -1,0 +1,8 @@
+{
+  "appTitle": "Vehicle Tracking",
+  "filter": "Filter",
+  "apply": "Apply",
+  "call": "Call",
+  "message": "Message",
+  "orderNumberMessage": "Good day, please tell me the current order number you are working on."
+}

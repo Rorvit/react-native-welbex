@@ -1,0 +1,26 @@
+{
+  "name": "ProjectTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@react-navigation/stack": "^6.3.16",
+    "react-i18next": "^13.0.0",
+    "react-native": "0.71.11",
+    "react-native-maps": "^1.7.1",
+    "react-native-mock-render": "^0.1.9",
+    "react-native-webview": "^13.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "@types/react": "^18.2.12"
+  }
+}
